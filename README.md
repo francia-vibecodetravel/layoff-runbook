@@ -96,3 +96,4 @@ interviews might not be.
 ## See also
 1. [Effective Immediately](https://github.com/Effective-Immediately/effective-immediately), a
 similar guide to this one
+1. [Laid Off in America](https://laidoffinamerica.com) — free educational checklists for the first 24 hours after a layoff, severance prep, and work-visa layoff timelines (H-1B / L-1 / O-1 / TN). No signup, U.S.-focused, plain English. Affiliated.
